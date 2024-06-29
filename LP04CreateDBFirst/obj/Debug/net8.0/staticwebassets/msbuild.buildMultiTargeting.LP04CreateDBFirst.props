@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LP04CreateDBFirst.props" />
+</Project>

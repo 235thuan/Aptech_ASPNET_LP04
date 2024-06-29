@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\LP04CreateDBFirst.props" />
+</Project>
